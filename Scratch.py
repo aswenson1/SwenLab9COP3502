@@ -1,5 +1,3 @@
-print("Hello world!")
-
 def decode(pw):
     newstr = ""
     for i in pw:
