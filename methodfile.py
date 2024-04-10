@@ -1,5 +1,5 @@
 # Anders Swenson
-from Scratch import decode
+from Labs.Lab_9.Lab9_3502.Scratch import decode
 def menu():
     print("Menu")
     print("-------------")
